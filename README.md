@@ -1,270 +1,292 @@
 <h1 align="center">
-  Hi 👋, I'm 
-  <a href="https://github.com/harshonapath" target="_blank">Harshit Sharma</a>
+  Hi 👋, I'm
+  <a href="https://github.com/harshonapath">Harshit Sharma</a>
 </h1>
 
 <h3 align="center">
-  B.Tech CSE Student | Software Developer | AI/ML Enthusiast | Problem Solver 🇮🇳
+  B.Tech CSE Student | Software Developer | AI/ML Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
   <i>Learning. Building. Evolving. 🚀</i>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harshonapath&label=Profile%20views&color=0e75b6&style=flat" alt="harshonapath">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshonapath&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" 
-       src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+- 🎓 B.Tech Computer Science Engineering student at **Bennett University**
+- 🔭 Currently working on **Full Stack Development, DSA and AI-powered projects**
+- 💻 Building applications using **React, Tailwind CSS, Node.js, Express.js, FastAPI and Flask**
+- 🤖 Interested in **AI/ML, Computer Vision, Cybersecurity and real-world problem solving**
+- 👯 Looking to collaborate on **Full Stack, AI/ML, Computer Vision and Hackathon projects**
+- 🏆 Enjoy participating in **hackathons and technical competitions**
+- 🧠 Practicing **Data Structures & Algorithms using C++**
+- 📊 Solved **55+ LeetCode problems**
+- 💬 Ask me about **C++, DSA, Full Stack Development, AI/ML, Computer Vision and Hackathons**
+- 🚀 I enjoy turning ideas into **working products and practical solutions**
+- ⚡ Fun fact: **I learn best by building, breaking, debugging and building again.**
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280">
+
+<br><br>
+
+<a href="https://www.bennett.edu.in/" target="_blank">
+  <img src="https://www.bennett.edu.in/wp-content/uploads/2024/04/Logo.png" width="130">
 </a>
 
-<ul>
+<br>
 
-<li>
-<p>🎓 I’m a <strong>B.Tech Computer Science Engineering student at Bennett University</strong></p>
-</li>
+<b>Bennett University</b>
 
-<li>
-<p>🔭 I’m currently working on <strong>Full Stack Development, DSA and AI-powered projects</strong></p>
-</li>
+<br>
 
-<li>
-<p>💻 I’m building applications using <strong>React, Tailwind CSS, Node.js, Express.js, FastAPI and Flask</strong></p>
-</li>
+<sub>B.Tech Computer Science Engineering</sub>
 
-<li>
-<p>🤖 I’m interested in <strong>AI/ML, Computer Vision, Cybersecurity and real-world problem solving</strong></p>
-</li>
+</td>
+</tr>
+</table>
 
-<li>
-<p>👯 I’m looking to collaborate on <strong>Full Stack, AI/ML, Computer Vision and Hackathon projects</strong></p>
-</li>
+---
 
-<li>
-<p>🏆 I enjoy participating in <strong>hackathons and building projects under real-world constraints</strong></p>
-</li>
+# 🛠️ Tech Stack
 
-<li>
-<p>🧠 I practice <strong>Data Structures & Algorithms using C++</strong> and have solved <strong>55+ LeetCode problems</strong></p>
-</li>
+## 💻 Programming Languages
 
-<li>
-<p>💬 Ask me about <strong>C++, DSA, Full Stack Development, AI/ML, Computer Vision and Hackathons</strong></p>
-</li>
-
-<li>
-<p>🚀 I enjoy turning ideas into <strong>working products and practical solutions</strong></p>
-</li>
-
-<li>
-<p>⚡ Fun fact: <strong>I learn best by building, breaking, debugging and building again.</strong></p>
-</li>
-
-</ul>
-
-
-<!-- ===================== TECH STACK ===================== -->
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">💻 Programming Languages</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 </p>
 
-<h3 align="center">🌐 Frontend Development</h3>
+## 🌐 Frontend Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ejs" />
 </p>
 
-<h3 align="center">⚙️ Backend Development</h3>
+## ⚙️ Backend Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
-<h3 align="center">🗄️ Databases</h3>
+## 🗄️ Databases
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-<h3 align="center">🤖 AI / Machine Learning & Computer Vision</h3>
+## 🤖 AI / ML & Computer Vision
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,numpy" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge&logoColor=white" />
 </p>
 
-<h3 align="center">📱 Mobile & AI Applications</h3>
+## 📱 Mobile Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-<h3 align="center">🔧 Tools & Platforms</h3>
+## 🔧 Tools & Platforms
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,supabase" />
 </p>
 
+---
 
-<!-- ===================== WHAT I WORK ON ===================== -->
+# 🚀 Popular Projects
 
-<h2 align="center">🚀 What I Work On</h2>
+<table>
+<tr>
 
-<p align="center">
-  I enjoy working at the intersection of
-  <strong>Software Development + AI/ML + Cybersecurity + Real-World Problems</strong>.
-</p>
+<td width="33%" valign="top">
 
-<p align="center">
-  My interests include building web applications, backend systems,
-  AI-powered tools, computer vision applications and developer-focused projects.
-</p>
+### 🎵 Spotify Clone
 
+A Spotify-inspired frontend project built to practice modern web development, responsive UI design and frontend development.
 
-<!-- ===================== POPULAR PROJECTS ===================== -->
-
-<h2 align="center">⭐ Popular Projects</h2>
+**Tech:**  
+HTML • CSS • JavaScript • Bootstrap
 
 <p align="center">
-
-<a href="https://github.com/harshonapath/SPOTIFY-CLONE" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshonapath&repo=SPOTIFY-CLONE&theme=tokyonight" />
+<a href="https://github.com/harshonapath/SPOTIFY-CLONE">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
-<a href="https://github.com/harshonapath/LEETCODE-QUESTIONS" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshonapath&repo=LEETCODE-QUESTIONS&theme=tokyonight" />
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 LeetCode Questions
+
+My DSA problem-solving repository containing solutions to LeetCode problems, primarily implemented using C++.
+
+**Focus:**  
+DSA • C++ • Problem Solving
+
+<p align="center">
+<a href="https://github.com/harshonapath/LEETCODE-QUESTIONS">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
-<a href="https://github.com/harshonapath/KRISHISETU" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshonapath&repo=KRISHISETU&theme=tokyonight" />
+</td>
+
+<td width="33%" valign="top">
+
+### 🌾 KrishiSetu
+
+A technology-driven agricultural platform focused on improving transparency, market access and decision-making in the agricultural ecosystem.
+
+**Tech:**  
+React • Tailwind CSS • Backend • Database
+
+<p align="center">
+<a href="https://github.com/harshonapath/KRISHISETU">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💡 Other Projects
+
+### 🔐 SentinelX — AI-Powered Synthetic Voice Detection
+
+An AI-powered system designed to detect whether an audio recording is **human-generated or AI-generated**.
+
+The project combines voice analysis, speech-to-text, machine learning and threat scoring to help identify potential voice-cloning attacks.
+
+**Technologies:**  
+Python • Wav2Vec2 • Machine Learning • FastAPI/Flask • Gemini API • Android/Kotlin
+
+---
+
+### 👁️ AI Visual Assistant for the Blind
+
+A computer-vision based assistant designed to detect objects, estimate their distance and provide real-time audio narration.
+
+**Technologies:**  
+Python • YOLO • OpenCV • PyTorch • Roboflow • NumPy • Text-to-Speech
+
+---
+
+### 💰 FINTRACK — Student Money Management System
+
+A Java and MySQL-based application designed to help students manage and track their personal expenses.
+
+**Technologies:**  
+Java • MySQL
+
+---
+
+# 🧠 Problem Solving
+
+<p align="center">
+
+### 55+ LeetCode Problems Solved
+
+**Arrays** • **Strings** • **Recursion** • **OOP** • **Sorting** • **Searching** • **Pattern Problems**
 
 </p>
 
-
-<!-- ===================== PROJECT DESCRIPTIONS ===================== -->
-
-<h2 align="center">💡 Featured Work</h2>
-
-<ul>
-
-<li>
-<strong>🎵 Spotify Clone</strong><br>
-A frontend Spotify-inspired music streaming interface built to practice
-modern web development and responsive UI design.
-</li>
-
-<br>
-
-<li>
-<strong>🧠 LeetCode Questions</strong><br>
-A collection of my Data Structures & Algorithms problem-solving journey,
-primarily implemented using C++.
-</li>
-
-<br>
-
-<li>
-<strong>🌾 KrishiSetu</strong><br>
-A technology-driven agricultural platform focused on improving transparency,
-market access and decision-making for farmers.
-</li>
-
-</ul>
-
-
-<!-- ===================== DSA ===================== -->
-
-<h2 align="center">🧠 Problem Solving</h2>
-
 <p align="center">
-  <strong>55+ LeetCode Problems Solved</strong>
-</p>
-
-<p align="center">
-  Arrays • Strings • Recursion • OOP • Sorting • Searching • Pattern Problems
-</p>
-
-<p align="center">
-  <a href="https://github.com/harshonapath/LEETCODE-QUESTIONS" target="_blank">
-    <strong>→ View My DSA Repository</strong>
+  <a href="https://github.com/harshonapath/LEETCODE-QUESTIONS">
+    <img src="https://img.shields.io/badge/🧠%20View%20My%20DSA%20Repository-2962FF?style=for-the-badge">
   </a>
 </p>
 
+---
 
-<!-- ===================== HACKATHONS ===================== -->
+# 🏆 Hackathons & Innovation
 
-<h2 align="center">🏆 Hackathons & Innovation</h2>
+I enjoy participating in hackathons because they allow me to:
+
+- 💡 Work on real-world problems
+- ⚡ Build under time constraints
+- 🤝 Collaborate with teams
+- 🧠 Learn technologies quickly
+- 🚀 Turn ideas into functional prototypes
+
+I've worked on projects involving:
+
+**AI • Computer Vision • Cybersecurity • Blockchain • Full Stack Development**
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  I enjoy participating in hackathons where I can work on real-world problems,
-  collaborate with teams, learn technologies quickly and turn ideas into
-  functional prototypes.
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshonapath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshonapath&layout=compact&theme=tokyonight&hide_border=true">
+
 </p>
 
 <p align="center">
-  My hackathon projects have explored areas including
-  <strong>AI, Computer Vision, Cybersecurity, Blockchain and Full Stack Development.</strong>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshonapath&theme=tokyonight&hide_border=true">
+
 </p>
 
+---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshonapath&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshonapath&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<!-- ===================== CONNECT ===================== -->
-
-<h2 align="center">🤝 Connect With Me</h2>
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="www.linkedin.com/in/harshit-sharma-8b5744369" target="_blank">
-  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
+<a href="https://www.linkedin.com/in/harshit-sharma-8b5744369/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/harshonapath" target="_blank">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/harshonapath/" target="_blank">
-  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </p>
 
-
-<!-- ===================== FOOTER ===================== -->
-
-<hr>
+---
 
 <p align="center">
-  <strong>Learning. Building. Evolving. 🚀</strong>
-</p>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+<strong>Learning. Building. Evolving. 🚀</strong>
+
+<br><br>
+
+⭐ Thanks for visiting my profile!
+
 </p>
