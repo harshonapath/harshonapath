@@ -1,29 +1,41 @@
-<h1 align="center">Hi 👋, I'm <a href="#" target="blank">Harshit Sharma</a></h1>
+<h1 align="center">
+  Hi 👋, I'm 
+  <a href="https://github.com/harshonapath" target="_blank">Harshit Sharma</a>
+</h1>
 
 <h3 align="center">
-A passionate B.Tech CSE student, software developer & AI/ML enthusiast from India 🇮🇳
+  B.Tech CSE Student | Software Developer | AI/ML Enthusiast | Problem Solver 🇮🇳
 </h3>
+
+<p align="center">
+  <i>Learning. Building. Evolving. 🚀</i>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harshonapath&label=Profile%20views&color=0e75b6&style=flat" alt="harshonapath">
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" 
+       src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <ul>
+
+<li>
+<p>🎓 I’m a <strong>B.Tech Computer Science Engineering student at Bennett University</strong></p>
+</li>
 
 <li>
 <p>🔭 I’m currently working on <strong>Full Stack Development, DSA and AI-powered projects</strong></p>
 </li>
 
 <li>
-<p>👨‍💻 I’m currently building projects using <strong>React, Tailwind CSS, Node.js, Express.js, FastAPI and Flask</strong></p>
+<p>💻 I’m building applications using <strong>React, Tailwind CSS, Node.js, Express.js, FastAPI and Flask</strong></p>
 </li>
 
 <li>
-<p>🌱 I’m currently learning <strong>Advanced DSA, Backend Development, AI/ML and Computer Vision</strong></p>
+<p>🤖 I’m interested in <strong>AI/ML, Computer Vision, Cybersecurity and real-world problem solving</strong></p>
 </li>
 
 <li>
@@ -31,7 +43,11 @@ A passionate B.Tech CSE student, software developer & AI/ML enthusiast from Indi
 </li>
 
 <li>
-<p>🤝 I’m interested in building <strong>real-world products and innovative solutions</strong></p>
+<p>🏆 I enjoy participating in <strong>hackathons and building projects under real-world constraints</strong></p>
+</li>
+
+<li>
+<p>🧠 I practice <strong>Data Structures & Algorithms using C++</strong> and have solved <strong>55+ LeetCode problems</strong></p>
 </li>
 
 <li>
@@ -39,149 +55,209 @@ A passionate B.Tech CSE student, software developer & AI/ML enthusiast from Indi
 </li>
 
 <li>
-<p>🧠 I have solved <strong>55+ problems on LeetCode</strong> and continuously work on improving my problem-solving skills</p>
+<p>🚀 I enjoy turning ideas into <strong>working products and practical solutions</strong></p>
 </li>
 
 <li>
-<p>🏆 I enjoy participating in <strong>hackathons and technical competitions</strong></p>
-</li>
-
-<li>
-<p>🚀 I have worked on projects involving <strong>AI, Computer Vision, Blockchain, Web Development and Cybersecurity</strong></p>
-</li>
-
-<li>
-<p>⚡ Fun fact: <strong>I believe in learning by building, breaking, debugging and building again.</strong></p>
-</li>
-
-<li>
-<p>🎯 My goal is to become a <strong>strong Software Engineer</strong> and build technology that solves real-world problems</p>
+<p>⚡ Fun fact: <strong>I learn best by building, breaking, debugging and building again.</strong></p>
 </li>
 
 </ul>
 
-<h3 align="center">
-  🛠️ Technologies & Tools
-</h3>
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+</p>
+
+<h3 align="center">🌐 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ejs" />
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<h3 align="center">🤖 AI / Machine Learning & Computer Vision</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,numpy" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" />
+</p>
+
+<h3 align="center">📱 Mobile & AI Applications</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+</p>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,supabase" />
+</p>
+
+
+<!-- ===================== WHAT I WORK ON ===================== -->
+
+<h2 align="center">🚀 What I Work On</h2>
+
+<p align="center">
+  I enjoy working at the intersection of
+  <strong>Software Development + AI/ML + Cybersecurity + Real-World Problems</strong>.
+</p>
+
+<p align="center">
+  My interests include building web applications, backend systems,
+  AI-powered tools, computer vision applications and developer-focused projects.
+</p>
+
+
+<!-- ===================== POPULAR PROJECTS ===================== -->
+
+<h2 align="center">⭐ Popular Projects</h2>
 
 <p align="center">
 
-<strong>Languages:</strong><br>
-C++ • Java • Python • JavaScript
+<a href="https://github.com/harshonapath/SPOTIFY-CLONE" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshonapath&repo=SPOTIFY-CLONE&theme=tokyonight" />
+</a>
 
-<br><br>
+<a href="https://github.com/harshonapath/LEETCODE-QUESTIONS" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshonapath&repo=LEETCODE-QUESTIONS&theme=tokyonight" />
+</a>
 
-<strong>Frontend:</strong><br>
-HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap • EJS
-
-<br><br>
-
-<strong>Backend:</strong><br>
-Node.js • Express.js • FastAPI • Flask
-
-<br><br>
-
-<strong>Databases:</strong><br>
-MySQL • MongoDB
-
-<br><br>
-
-<strong>AI / ML:</strong><br>
-Python • NumPy • PyTorch • OpenCV • YOLO • Roboflow
-
-<br><br>
-
-<strong>Tools:</strong><br>
-Git • GitHub • VS Code • Anaconda • Supabase
+<a href="https://github.com/harshonapath/KRISHISETU" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshonapath&repo=KRISHISETU&theme=tokyonight" />
+</a>
 
 </p>
 
-<h3 align="center">
-  🚀 Featured Projects
-</h3>
+
+<!-- ===================== PROJECT DESCRIPTIONS ===================== -->
+
+<h2 align="center">💡 Featured Work</h2>
 
 <ul>
 
 <li>
-<strong>SentinelX — AI-Powered Synthetic Voice Detection</strong><br>
-An AI-powered system designed to detect whether an audio recording is human-generated or AI-generated, with speech-to-text analysis, threat scoring and incident reporting.
+<strong>🎵 Spotify Clone</strong><br>
+A frontend Spotify-inspired music streaming interface built to practice
+modern web development and responsive UI design.
 </li>
 
 <br>
 
 <li>
-<strong>AI Visual Assistant for the Blind</strong><br>
-A computer-vision based assistant using YOLO and OpenCV to detect objects, estimate distance and provide real-time voice narration.
+<strong>🧠 LeetCode Questions</strong><br>
+A collection of my Data Structures & Algorithms problem-solving journey,
+primarily implemented using C++.
 </li>
 
 <br>
 
 <li>
-<strong>KrishiSetu</strong><br>
-A blockchain-based agricultural supply-chain solution focused on transparency and traceability.
-</li>
-
-<br>
-
-<li>
-<strong>FINTRACK — Student Money Management System</strong><br>
-A Java and MySQL-based application for managing and tracking student expenses.
+<strong>🌾 KrishiSetu</strong><br>
+A technology-driven agricultural platform focused on improving transparency,
+market access and decision-making for farmers.
 </li>
 
 </ul>
 
-<h3 align="center">
-  📊 Problem Solving
-</h3>
+
+<!-- ===================== DSA ===================== -->
+
+<h2 align="center">🧠 Problem Solving</h2>
 
 <p align="center">
-  <strong>55+ LeetCode Problems Solved</strong><br><br>
+  <strong>55+ LeetCode Problems Solved</strong>
+</p>
+
+<p align="center">
   Arrays • Strings • Recursion • OOP • Sorting • Searching • Pattern Problems
 </p>
 
-<h3 align="center">
-  🏆 Hackathons & Innovation
-</h3>
-
 <p align="center">
-I enjoy participating in hackathons where I can work on real-world problems,
-learn new technologies quickly, collaborate with teams and turn ideas into
-working prototypes.
+  <a href="https://github.com/harshonapath/LEETCODE-QUESTIONS" target="_blank">
+    <strong>→ View My DSA Repository</strong>
+  </a>
 </p>
 
-<h3 align="center">
-  📚 Currently Learning
-</h3>
+
+<!-- ===================== HACKATHONS ===================== -->
+
+<h2 align="center">🏆 Hackathons & Innovation</h2>
 
 <p align="center">
-Advanced DSA • React • Tailwind CSS • Node.js • Express.js • MongoDB • FastAPI • Flask • AI/ML • Computer Vision
+  I enjoy participating in hackathons where I can work on real-world problems,
+  collaborate with teams, learn technologies quickly and turn ideas into
+  functional prototypes.
 </p>
 
-<h3 align="center">
-  🎯 My Goal
-</h3>
-
 <p align="center">
-To become a strong Software Engineer with solid fundamentals in
-<strong>DSA, Full Stack Development, Backend Engineering and AI/ML</strong>,
-while continuously building meaningful real-world products.
+  My hackathon projects have explored areas including
+  <strong>AI, Computer Vision, Cybersecurity, Blockchain and Full Stack Development.</strong>
 </p>
 
-<h3 align="center">
-  🤝 Connect With Me
-</h3>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshonapath&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshonapath&theme=tokyonight&hide_border=true" />
+</p>
+
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
 
-<a style="margin-left: 10px;" target="_blank" href="#">
-  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+<a href="www.linkedin.com/in/harshit-sharma-8b5744369" target="_blank">
+  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
 </a>
 
-<a style="margin-left: 10px;" target="_blank" href="https://github.com/harshonapath">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+<a href="https://github.com/harshonapath" target="_blank">
+  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" />
+</a>
+
+<a href="https://www.instagram.com/harshonapath/" target="_blank">
+  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" />
 </a>
 
 </p>
+
+
+<!-- ===================== FOOTER ===================== -->
 
 <hr>
 
@@ -191,6 +267,4 @@ while continuously building meaningful real-world products.
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
-</p>on.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
 </p>
-
