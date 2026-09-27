@@ -1,0 +1,65 @@
+name: Update GitHub Dashboard
+
+on:
+  schedule:
+    # Update every 6 hours
+    - cron: "0 */6 * * *"
+
+  # Allows you to manually update the dashboard
+  workflow_dispatch:
+
+  # Also update whenever you modify this workflow
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            username=harshonapath
+            &show_icons=true
+            &hide_rank=true
+            &include_all_commits=true
+            &count_private=true
+            &theme=tokyonight
+            &hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >-
+            username=harshonapath
+            &layout=compact
+            &langs_count=8
+            &theme=tokyonight
+            &hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub dashboard"
+
+          git push
