@@ -243,22 +243,31 @@ I've worked on projects involving:
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Dashboard</h2>
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshonapath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshonapath&layout=compact&theme=tokyonight&hide_border=true">
-
+  <i>Automatically updated from my GitHub activity.</i>
 </p>
 
 <p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="Harshit's GitHub Stats"
+    width="49%"
+  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshonapath&theme=tokyonight&hide_border=true">
-
+  <img
+    src="./profile/top-langs.svg"
+    alt="Harshit's Top Languages"
+    width="49%"
+  />
 </p>
 
+<p align="center">
+  <i>
+    Dashboard automatically refreshes every 6 hours.
+  </i>
+</p>
 ---
 
 # 🤝 Connect With Me
